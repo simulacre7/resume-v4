@@ -1,19 +1,24 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.jpeg'
 skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
-  - Node.js
-  - WordPress
+  - D3.js
+  - Python
+  - Flask
+  - scikit-learn
+  - TensorFlow
+  - Keras
+  - Git
+  - Kubernetes
+  - Kubeflow
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Kihwan Kim, a research software engineer based in South Korea.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after getting the M.S. degree in Computer Science from [UNIST](http://cse.unist.ac.kr/),
+I joined the R&D team at [TmaxData](https://www.tmaxdata.com/) where I research and develop an automated machine learning (AutoML) platform.
 
 Here are a few technologies I've been working with recently:

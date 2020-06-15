@@ -1,8 +1,9 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Kihwan Kim'
+subtitle: 'I build a bridge between humans and AI.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a research software engineer based in South Korea,
+specializing in building visualization tools for understanding AI.

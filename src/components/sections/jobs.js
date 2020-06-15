@@ -7,9 +7,12 @@ import { theme, mixins, media, Section, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
-  position: relative;
-  max-width: 700px;
+  ${mixins.flexCenter};
+  flex-direction: column;
+  align-items: flex-start;
 `;
+//position: relative;
+//max-width: 700px;
 const StyledTabs = styled.div`
   display: flex;
   align-items: flex-start;
