@@ -12,4 +12,4 @@ showInProjects: true
 ---
 
 DesignVis supports interactive design recommendation and evaluation.
-We won a bronze award with ‎₩1,500,000 (approximately \$1400) in the research poster competition (NAVER-UNIST undergraduate poster award) hosted by NAVER and UNIST ECE.
+We won a bronze award with ‎₩1,500,000 (approximately \$1400) in the research poster competition hosted by NAVER and UNIST ECE.
