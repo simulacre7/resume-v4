@@ -10,5 +10,5 @@ tech:
 showInProjects: true
 ---
 
-DesignVis supports interactive design recommendation and evaluation.
-We won a bronze award with ‎₩1,500,000 (approximately \$1400) in the research poster competition (NAVER-UNIST undergraduate poster award) hosted by NAVER and UNIST ECE.
+LogVis visualizes the log as network structure, allowing analysts to find out frequent cycles.
+It also provides the automatic summary which show frequent cycles, based on sequential pattern mining technique.
