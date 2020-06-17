@@ -11,5 +11,5 @@ tech:
 showInProjects: true
 ---
 
-Developed a smartphone-assisted crop disease diagnosis service.
+A smartphone-assisted crop disease diagnosis service.
 Our CNN (Convolutional Neural Network) can classify 17 crop species and 46 diseases.
