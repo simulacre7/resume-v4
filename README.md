@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   Reference:
-  <a href="https://github.com/bchiang7/v4" target="_blank">v1</a>,
+  <a href="https://github.com/bchiang7/v4" target="_blank">Brittany Chiang's personal website</a>,
 </p>
 
 <p align="center">
