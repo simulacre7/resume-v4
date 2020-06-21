@@ -7,6 +7,10 @@
 <p align="center">
   The fourth iteration of <a href="https://kihwan.kim/" target="_blank">kihwan.kim</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
+<p align="center">
+  Reference:
+  <a href="https://github.com/bchiang7/v4" target="_blank">v1</a>,
+</p>
 
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
