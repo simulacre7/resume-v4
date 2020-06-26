@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'dr8HhGR4OkwEdtWRxWXVR8XVoG6cKkKP3y6Cj_rEOX8',
   name: 'Kihwan Kim',
   location: 'South Korea',
-  email: 'kihwan_kim@tmax.co.kr',
+  email: 'kihwan@kakao.com',
   github: 'https://github.com/simulacre7',
   twitterHandle: '@simulacre7',
   socialMedia: [
